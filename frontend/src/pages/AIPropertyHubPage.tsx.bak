@@ -94,7 +94,7 @@ export interface SearchParams {
 
 /* ── Production landing page ────────────────────────────── */
 
-const GITHUB_URL = 'https://github.com/AAYUSH412/Real-Estate-Website';
+const GITHUB_URL = 'https://github.com/kritipandey125412/Real-Estate-Website';
 
 const AIHubProductionPage: React.FC = () => {
   const features = [

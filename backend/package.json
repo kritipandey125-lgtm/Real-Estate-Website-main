@@ -12,7 +12,7 @@
     "render-build": "npm install",
     "test": "echo 'No tests specified' && exit 0"
   },
-  "author": "Aayush Vaghela",
+  "author": "kritipandey125 Vaghela",
   "license": "ISC",
   "dependencies": {
     "@azure-rest/ai-inference": "^1.0.0-beta.5",

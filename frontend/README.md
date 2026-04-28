@@ -10,7 +10,7 @@ _User-facing React application for the BuildEstate platform._
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-buildestate.vercel.app-2ea44f?style=for-the-badge&logo=vercel)](https://buildestate.vercel.app)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Aayush_Vaghela-000000?style=for-the-badge)](https://aayush-vaghela.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-kritipandey125_Vaghela-000000?style=for-the-badge)](https://kritipandey125-vaghela.vercel.app/)
 
 </div>
 
@@ -161,6 +161,6 @@ Currently live at: **https://buildestate.vercel.app**
 
 [Backend README](../backend/README.md) • [Admin Panel README](../admin/README.md) • [Root Interface](../README.md)
 
-_Built by [Aayush Vaghela](https://aayush-vaghela.vercel.app/)_
+_Built by [kritipandey125 Vaghela](https://kritipandey125-vaghela.vercel.app/)_
 
 </div>

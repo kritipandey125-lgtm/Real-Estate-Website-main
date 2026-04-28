@@ -43,8 +43,8 @@ const StructuredData: React.FC<StructuredDataProps> = ({ type, data }) => {
       url: SITE_URL,
       logo: `${SITE_URL}/logo.png`,
       sameAs: [
-        'https://github.com/AAYUSH412/Real-Estate-Website',
-        'https://linkedin.com/in/AAYUSH412',
+        'https://github.com/kritipandey125412/Real-Estate-Website',
+        'https://linkedin.com/in/kritipandey125412',
       ],
       contactPoint: {
         '@type': 'ContactPoint',

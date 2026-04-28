@@ -4,11 +4,11 @@
   "version": "2.0.0",
   "type": "module",
   "description": "BuildEstate admin dashboard for property management",
-  "author": "Aayush Vaghela",
+  "author": "kritipandey125 Vaghela",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/AAYUSH412/Real-Estate-Website"
+    "url": "https://github.com/kritipandey125412/Real-Estate-Website"
   },
   "scripts": {
     "dev": "vite",

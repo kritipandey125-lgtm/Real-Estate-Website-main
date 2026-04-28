@@ -9,7 +9,7 @@ _Comprehensive administrative dashboard for overseeing the BuildEstate real esta
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
 
 [![Live Demo](https://img.shields.io/badge/Live_Dashboard-Visit_Panel-EA4335?style=for-the-badge&logo=render)](https://real-estate-website-admin.onrender.com/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Aayush_Vaghela-000000?style=for-the-badge)](https://aayush-vaghela.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-kritipandey125_Vaghela-000000?style=for-the-badge)](https://kritipandey125-vaghela.vercel.app/)
 
 </div>
 
@@ -132,6 +132,6 @@ Currently resolving at: **https://real-estate-website-admin.onrender.com**
 
 [Frontend README](../frontend/README.md) • [Backend README](../backend/README.md) • [Root Interface](../README.md)
 
-_Maintained by [Aayush Vaghela](https://aayush-vaghela.vercel.app/)_
+_Maintained by [kritipandey125 Vaghela](https://kritipandey125-vaghela.vercel.app/)_
 
 </div>

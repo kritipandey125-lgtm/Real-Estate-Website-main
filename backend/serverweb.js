@@ -126,7 +126,7 @@ export default function getStatusPage() {
         <a href="/health">Health</a> &nbsp;|&nbsp;
         <a href="/status">Status</a> &nbsp;|&nbsp;
         <a href="https://buildestate.vercel.app" target="_blank">Website</a> &nbsp;|&nbsp;
-        <a href="https://github.com/AAYUSH412/Real-Estate-Website" target="_blank">GitHub</a>
+        <a href="https://github.com/kritipandey125412/Real-Estate-Website" target="_blank">GitHub</a>
       </p>
       <p style="margin-top:8px;opacity:.6">Express.js &middot; MongoDB &middot; Last refresh: ${new Date().toLocaleString()}</p>
     </div>

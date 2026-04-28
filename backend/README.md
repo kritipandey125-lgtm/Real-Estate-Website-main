@@ -240,6 +240,6 @@ Active Node endpoint: **https://real-estate-website-backend-zfu7.onrender.com**
 
 [Frontend README](../frontend/README.md) • [Admin Panel README](../admin/README.md) • [Root Interface](../README.md)
 
-_Engineered by [Aayush Vaghela](https://aayush-vaghela.vercel.app/)_
+_Engineered by [kritipandey125 Vaghela](https://kritipandey125-vaghela.vercel.app/)_
 
 </div>

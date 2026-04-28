@@ -1,7 +1,7 @@
 # BuildEstate - Architecture Issues Document
 
 > **Project:** Real Estate Website (BuildEstate)
-> **GitHub:** [github.com/AAYUSH412/Real-Estate-Website](https://github.com/AAYUSH412/Real-Estate-Website)
+> **GitHub:** [github.com/kritipandey125412/Real-Estate-Website](https://github.com/kritipandey125412/Real-Estate-Website)
 > **Type:** Open-source project
 > **Structure:** Monorepo with 3 apps - `admin/`, `backend/`, `frontend/`
 > **Generated:** March 2026
